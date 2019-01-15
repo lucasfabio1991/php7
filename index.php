@@ -1,2 +1,5 @@
-<php
-     ceho
+<?php  
+
+	echo "Olá Mundo";
+
+?>
